@@ -1,0 +1,31 @@
+.todo-button
+{
+    padding: 1vw 4vh 1vw 4vh;
+    border-radius: 0.5vw;
+    border: 1px solid brown;
+}
+
+.todo-input
+{
+    padding: 1vw 3vh 1vw 3vh;
+    margin-right: 1vw;
+}
+
+.todo
+{
+    border: 1px solid red;
+    max-width: 20vw;
+    border-radius: 1vw;
+    font-size: 1.5vw;
+    margin-bottom: 2vh;
+}
+
+#big_one
+{
+    border: 1px solid black;
+    max-width: 40vw;
+    border-radius: 1vw;
+    margin-top: 10vh;
+    padding-bottom: 4vh;
+    background-color: #cfa7a5;
+}
